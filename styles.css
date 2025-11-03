@@ -1,1 +1,18 @@
 /* your code */
+table{
+	border-collapse: collapse;
+	margin: 20px 0;
+	width:100%;
+	font-family: sans-serif;
+}
+thead{
+   background-color: darkslateblue;
+	color: white;
+	text-align: left;
+	padding: 12px;
+	border-bottom: 2px #ddd;
+}
+
+td{
+	border-bottom: 1px solid #ddd;
+}
